@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente trabalhando como Analista de testes funcionais
-- 🌱 Atualmente estudando Java/Selenium
+- 🌱 Estudando Java/Selenium
+- 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
 
  <div>
