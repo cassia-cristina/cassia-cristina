@@ -1,7 +1,7 @@
 ### Olá! Sou a Cássia Souza ✔
 
 
-- 🔭 Atualmente trabalhando como Analista de testes funcionais
+- 🔭 Atualmente trabalhando como Analista de testes funcionais e não funcionais.
 - 🌱 Estudando Java/Selenium
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
