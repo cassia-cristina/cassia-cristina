@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassia-cristina&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
   
-<div style="display: table-column"><br>
+<div style="display: table-row"><br>
   <img align="center" alt="Cassia-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cassia-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Cassia-cucumber" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
