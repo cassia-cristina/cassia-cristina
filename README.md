@@ -6,13 +6,13 @@
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
 
- <div>
+ <div style="display: inline_block"><br>
   <a href="https://github.com/cassia-cristina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassia-cristina&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassia-cristina&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
   
-<div style="display: table-row"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Cassia-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Cassia-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Cassia-cucumber" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
