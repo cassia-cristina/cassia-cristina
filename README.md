@@ -1,9 +1,9 @@
 ### Olá! Sou a Cássia Souza ✔
 
 
-- 🔭 Analista de testes / QA
-- 📘 Estudando Java/Selenium WebDriver
-- 🎵 Adoro música e séries
+- 🛠 Analista de testes / QA
+- 📚 Estudando Java/Selenium WebDriver
+- 🎹 Adoro música e séries
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
 
