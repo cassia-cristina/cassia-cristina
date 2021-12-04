@@ -2,7 +2,7 @@
 
 
 - 🛠 Analista de testes / QA
-- 📚 Estudando Java/Selenium WebDriver
+- 📚 Estudando Java/Selenium WebDriver/JavaScript/Cypress
 - 🎹 Adoro música e séries
 - 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
 
