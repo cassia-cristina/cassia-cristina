@@ -19,7 +19,8 @@
    <img align="center" alt="Cassia-cucumber" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Cassia-bd" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  <img align="center" alt="Cassia-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
- <img align="center" alt="Cassia-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Cassia-docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Cassia-jenkins" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
  </div>
 
 ##
