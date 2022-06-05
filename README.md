@@ -2,9 +2,7 @@
 
 
 - 🛠 Analista de testes / QA
-- 🎹 Adoro música e séries
-- 🔎 Buscando conhecimento (automação, ferramentas e técnicas de teste)
-
+- 🔎 Buscando conhecimento
 
  <div>
   <a href="https://github.com/cassia-cristina">
