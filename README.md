@@ -11,15 +11,15 @@
 </div>
   
 <div style="display: inline_block"><br>
- <img align="center" alt="Cassia-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"> 
- <img align="center" alt="Cassia-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Cassia-cucumber" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
- <img align="center" alt="Cassia-oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
- <img align="center" alt="Cassia-mongo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt="Cassia-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
- <img align="center" alt="Cassia-cypress" height="40" width="50" src="https://github.com/cassia-cristina/cassia-cristina/blob/main/Icons/cypress.svg">
- <img align="center" alt="Cassia-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg"> 
- </div>
+ <img align="center" alt="Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+ <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Cucumber" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
+ <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+ <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ <img align="center" alt="Cypress" height="40" width="50" src="https://github.com/cassia-cristina/cassia-cristina/blob/main/Icons/cypress.svg">
+ <img align="center" alt="BrowserStack" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg">
+</div>
 
 ##
 
