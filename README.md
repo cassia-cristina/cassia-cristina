@@ -18,6 +18,7 @@
  <img align="center" alt="Cassia-mongo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
  <img align="center" alt="Cassia-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
  <img align="center" alt="Cassia-cypress" height="40" width="50" src="https://github.com/cassia-cristina/cassia-cristina/blob/main/Icons/cypress.svg">
+ <img align="center" alt="Cassia-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg"> 
  </div>
 
 ##
